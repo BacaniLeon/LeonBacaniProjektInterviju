@@ -1,0 +1,33 @@
+@import '../../../node_modules/include-media/dist/_include-media.scss';
+
+h2{
+    color: black;
+    font-size: 30rem;
+}
+
+.editAndAddDiv{
+    margin: 50rem auto;
+    text-align: center;
+    display: block;
+    width: 350rem;
+    
+}
+
+.input{
+    font-size: 14rem;
+    border: 2rem solid #333;
+    border-radius: 7rem;
+    padding: 4rem;
+    margin: 5rem;
+}
+
+.text{
+    font-size: 30rem;
+    text-align: center;
+}
+
+.divText{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
